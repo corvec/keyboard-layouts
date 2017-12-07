@@ -1947,7 +1947,7 @@
 						"fields": []
 					},
 					{
-						"id": "KC_PPLS",
+						"id": "KC_PLUS",
 						"fields": []
 					},
 					{
@@ -2045,7 +2045,7 @@
 						"fields": []
 					},
 					{
-						"id": "KC_PMNS",
+						"id": "KC_MINS",
 						"fields": []
 					},
 					{
@@ -2561,7 +2561,7 @@
 						"fields": []
 					},
 					{
-						"id": "KC_PEQL",
+						"id": "KC_EQL",
 						"fields": []
 					},
 					{
@@ -2647,7 +2647,7 @@
 						"fields": []
 					},
 					{
-						"id": "KC_PDOT",
+						"id": "KC_DOT",
 						"fields": []
 					},
 					{
@@ -2991,7 +2991,7 @@
 						"fields": []
 					},
 					{
-						"id": "KC_PAST",
+						"id": "KC_ASTR",
 						"fields": []
 					},
 					{
@@ -4224,34 +4224,34 @@
 			"rgb": "E2"
 		},
 		"macros": {
-		  "1": [
-			{
-			  "action": 2,
-			  "argument": "KC_LCTL"
-			},
-			{
-			  "action": 4,
-			  "argument": "KC_C"
-			},
-			{
-			  "action": 3,
-			  "argument": "KC_LCTL"
-			}
-		  ],
-		  "2": [
-			{
-			  "action": 2,
-			  "argument": "KC_LCTL"
-			},
-			{
-			  "action": 4,
-			  "argument": "KC_V"
-			},
-			{
-			  "action": 3,
-			  "argument": "KC_LCTL"
-			}
-		  ]
+			"1": [
+				{
+					"action": 2,
+					"argument": "KC_LCTL"
+				},
+				{
+					"action": 4,
+					"argument": "KC_C"
+				},
+				{
+					"action": 3,
+					"argument": "KC_LCTL"
+				}
+			],
+			"2": [
+				{
+					"action": 2,
+					"argument": "KC_LCTL"
+				},
+				{
+					"action": 4,
+					"argument": "KC_V"
+				},
+				{
+					"action": 3,
+					"argument": "KC_LCTL"
+				}
+			]
 		},
 		"quantum": "void matrix_init_user(void) {\n}\n\nvoid matrix_scan_user(void) {\n}\n\nbool process_record_user(uint16_t keycode, keyrecord_t *record) {\n return true;\n}",
 		"settings": {
