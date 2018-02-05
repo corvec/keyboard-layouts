@@ -3147,7 +3147,7 @@
 				"col": 0,
 				"keycodes": [
 					{
-						"id": "KC_LCTL",
+						"id": "KC_LALT",
 						"fields": []
 					},
 					{
@@ -3409,7 +3409,7 @@
 				"col": 3,
 				"keycodes": [
 					{
-						"id": "KC_LALT",
+						"id": "KC_LCTL",
 						"fields": []
 					},
 					{
