@@ -819,7 +819,7 @@
 						"fields": []
 					},
 					{
-						"id": "KC_TRNS",
+						"id": "KC_NO",
 						"fields": []
 					},
 					{
@@ -905,7 +905,7 @@
 						"fields": []
 					},
 					{
-						"id": "KC_TRNS",
+						"id": "KC_NO",
 						"fields": []
 					},
 					{
@@ -2037,7 +2037,7 @@
 						]
 					},
 					{
-						"id": "KC_EQL",
+						"id": "KC_MINS",
 						"fields": []
 					},
 					{
@@ -2381,15 +2381,15 @@
 						"fields": []
 					},
 					{
-						"id": "KC_CIRC",
+						"id": "KC_PIPE",
 						"fields": []
 					},
 					{
-						"id": "KC_CIRC",
+						"id": "KC_PIPE",
 						"fields": []
 					},
 					{
-						"id": "KC_CIRC",
+						"id": "KC_PIPE",
 						"fields": []
 					},
 					{
@@ -2467,15 +2467,15 @@
 						"fields": []
 					},
 					{
-						"id": "KC_DLR",
+						"id": "KC_EQL",
 						"fields": []
 					},
 					{
-						"id": "KC_DLR",
+						"id": "KC_EQL",
 						"fields": []
 					},
 					{
-						"id": "KC_DLR",
+						"id": "KC_EQL",
 						"fields": []
 					},
 					{
@@ -2553,15 +2553,15 @@
 						"fields": []
 					},
 					{
-						"id": "KC_NO",
+						"id": "KC_UNDS",
 						"fields": []
 					},
 					{
-						"id": "KC_NO",
+						"id": "KC_UNDS",
 						"fields": []
 					},
 					{
-						"id": "KC_EQL",
+						"id": "KC_UNDS",
 						"fields": []
 					},
 					{
@@ -2639,11 +2639,11 @@
 						"fields": []
 					},
 					{
-						"id": "KC_MINS",
+						"id": "KC_HOME",
 						"fields": []
 					},
 					{
-						"id": "KC_MINS",
+						"id": "KC_HOME",
 						"fields": []
 					},
 					{
@@ -2725,11 +2725,11 @@
 						"fields": []
 					},
 					{
-						"id": "KC_EQL",
+						"id": "KC_PGDN",
 						"fields": []
 					},
 					{
-						"id": "KC_EQL",
+						"id": "KC_PGDN",
 						"fields": []
 					},
 					{
@@ -2737,7 +2737,7 @@
 						"fields": []
 					},
 					{
-						"id": "KC_PGUP",
+						"id": "KC_NO",
 						"fields": []
 					},
 					{
@@ -2811,11 +2811,11 @@
 						"fields": []
 					},
 					{
-						"id": "KC_LBRC",
+						"id": "KC_PGUP",
 						"fields": []
 					},
 					{
-						"id": "KC_LBRC",
+						"id": "KC_PGUP",
 						"fields": []
 					},
 					{
@@ -2823,7 +2823,7 @@
 						"fields": []
 					},
 					{
-						"id": "KC_PGDN",
+						"id": "KC_NO",
 						"fields": []
 					},
 					{
@@ -2897,11 +2897,11 @@
 						"fields": []
 					},
 					{
-						"id": "KC_RBRC",
+						"id": "KC_END",
 						"fields": []
 					},
 					{
-						"id": "KC_RBRC",
+						"id": "KC_END",
 						"fields": []
 					},
 					{
